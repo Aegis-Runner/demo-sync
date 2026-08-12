@@ -1,0 +1,1 @@
+{ "name": "aegis-sync-demo", "version": "1.0.0", "private": true, "main": "server.js", "description": "Dual-surface (web + mobile) demo app for cross-platform sync testing." }
